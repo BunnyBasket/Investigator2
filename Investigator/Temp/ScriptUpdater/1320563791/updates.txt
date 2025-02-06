@@ -1,0 +1,2 @@
+Temp/ScriptUpdater/1320563791/1202237272_LuaScriptedImporter.cs => Assets/Fungus/Scripts/Editor/LuaScriptedImporter.cs
+Temp/ScriptUpdater/1320563791/2070356382_ViewEditor.cs => Assets/Fungus/Scripts/Editor/ViewEditor.cs
